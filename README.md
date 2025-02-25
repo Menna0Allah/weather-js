@@ -8,9 +8,6 @@ Welcome to **Weather App**, a simple weather application 🌍✨
 - responsive design.
 - Easy-to-use search functionality.
 
-## 🚀 Live Demo
-Check out the live version of the project here: **[Weather App](https://menna0allah.github.io/weather-js/)** 🌐
-
 ## 🛠️ Technologies Used
 - **HTML** – Structure of the app.
 - **CSS** – Styling and responsiveness.
